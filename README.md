@@ -3,6 +3,8 @@
 
 ---
 
+![Image](https://github.com/user-attachments/assets/8916030c-6706-4ab0-942f-4fef0f700a08)
+
 ## 🔍 Project Overview
 This project presents an end-to-end **sales analytics and forecasting solution** using a four-year Global Superstore dataset.  
 The analysis focuses on **exploratory data analysis (EDA), KPI development, trend identification, and short-term sales forecasting**, implemented exclusively with **Microsoft Power BI and Excel**.
