@@ -60,7 +60,7 @@ The dataset contains transactional retail sales data with the following columns:
 ---
 
 ## 📈 Dashboard Features
-- KPI cards for **Total Sales, Average Daily Sales, Top sales region, **
+- KPI cards for **Total Sales, Average Daily Sales, Top sales region, Average delivery days**
 - Sales trend analysis across daily, monthly, and yearly timelines
 - Category and segment performance comparisons
 - Regional sales and profitability insights
